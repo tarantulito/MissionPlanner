@@ -62,7 +62,7 @@ namespace MissionPlanner
             // 
             // MainMenu
             // 
-            resources.ApplyResources(this.MainMenu, "MainMenu");
+            //resources.ApplyResources(this.MainMenu, "MainMenu");
             this.MainMenu.ContextMenuStrip = this.CTX_mainmenu;
             this.MainMenu.GripMargin = new System.Windows.Forms.Padding(0);
             this.MainMenu.ImageScalingSize = new System.Drawing.Size(45, 39);
